@@ -19,6 +19,12 @@
     <li>
       Concepts of Oops- Class, Object,Composition,
     </li>
+    <li>
+      Programming using Arraylist 
+    </li>
+    <li>
+      File Handling
+    </li>
   </ol>
 </p>
 <P>
